@@ -1,0 +1,13 @@
+# Ignore everything by default
+
+#/*
+
+# Allow this project directory and all subdirectories/files within it
+#!/Automated_Defibrillator/
+
+# Ignore system files and specific subdirectories
+#.DS_Store
+#.Trash/
+#UI/
+
+
