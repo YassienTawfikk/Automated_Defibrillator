@@ -1,0 +1,10 @@
+
+sys
+pandas
+numpy
+scipy.signal
+PyQt5.QtWidgets
+PyQt5.QtCore
+pyqtgraph
+serial
+time
