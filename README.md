@@ -37,8 +37,8 @@ The GUI provides real-time visualization and interaction with the system.
 1. **Healthy Signal Visualization**
    <img width="800" alt="Screen Shot 2024-11-11 at 2 34 43 AM" src="https://github.com/user-attachments/assets/6ff0c8d4-a733-4c8c-a8b2-a8d7165f26a9">
 
-2. **Tachycardia Detection**
-  <img width="800" alt="Screen Shot 2024-11-11 at 2 34 53 AM" src="https://github.com/user-attachments/assets/51de96a5-4cbe-4f23-b8b7-d832547c3382">
+3. **Tachycardia Detection**
+   <img width="800" alt="Screen Shot 2024-11-11 at 2 34 53 AM" src="https://github.com/user-attachments/assets/51de96a5-4cbe-4f23-b8b7-d832547c3382">
 
 ---
 
