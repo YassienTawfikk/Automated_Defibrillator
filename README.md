@@ -1,4 +1,4 @@
-![IMG_6757](https://github.com/user-attachments/assets/f1867378-861f-47a1-8970-56a3449888b4)## **Overview**
+## **Overview**
 The Automated Defibrillator System is a project that bridges ECG signal monitoring with automated defibrillation technology. The system analyzes ECG signals in real-time, detects abnormal rhythms (e.g., tachycardia or bradycardia), and administers a controlled shock when needed. It combines hardware components and a GUI for efficient signal visualization and diagnosis.
 
 ---
