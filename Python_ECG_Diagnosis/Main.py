@@ -86,7 +86,7 @@ class ECGAnalyzer(QMainWindow, Ui_MainWindow):
             return
 
         # Assuming a sampling rate of 250 Hz (typical for ECG data)
-        sampling_rate = 250
+        sampling_rate = 200
 
         # Analyze the ECG signal
         ecg_signal = data["ECG"].values
