@@ -9,5 +9,7 @@
 #.DS_Store
 #.Trash/
 #UI/
+# Ignore system files and specific subdirectories
+.DS_Store
 
 
