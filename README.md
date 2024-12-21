@@ -53,6 +53,8 @@ The GUI provides real-time visualization and interaction with the system.
 ---
 
 ## **Schematic View**
+<img width="800" alt="Schematic View for the complete circuit setup" src="https://github.com/user-attachments/assets/03b35447-bc64-4bca-b6b6-df1fa2b5aa09">
+
 <img width="800" alt="Schematic View for the complete circuit setup" src="https://github.com/user-attachments/assets/2c15c587-973a-4e1d-a71a-0d0cb181c3cb">
 
 This schematic outlines the circuit design and connections of the Automated Defibrillator System.
