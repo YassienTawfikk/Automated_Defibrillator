@@ -119,8 +119,8 @@ To run this project, you'll need to install the required libraries listed in the
 ---
 
 ## **Team Members**
-Special thanks to:
-- Nancy Mahmoud
-- Madonna Mosaad
-- Mazen Marwan
+- [Yassien Tawfik](https://github.com/YassienTawfikk)
+- [Mazen Marwan](https://github.com/Mazenmarwan023)
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)
+- [Madonna Mosaad](https://github.com/madonna-mosaad)
 - Youssef Mohamed
