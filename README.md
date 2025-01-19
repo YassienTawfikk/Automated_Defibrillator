@@ -117,10 +117,37 @@ To run this project, you'll need to install the required libraries listed in the
    
 4. Finaly download `LightBlue` to connect bluetooth module with your mobile so the data sent to it
 ---
+## Contributors
 
-## **Team Members**
-- [Yassien Tawfik](https://github.com/YassienTawfikk)
-- [Mazen Marwan](https://github.com/Mazenmarwan023)
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)
-- [Madonna Mosaad](https://github.com/madonna-mosaad)
-- Youssef Mohamed
+<table>
+  <tr>
+        <td align="center">
+      <a href="https://github.com/YassienTawfikk" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/126521373?v=4" width="150px;" alt="Yassien Tawfik"/>
+        <br />
+        <sub><b>Yassien Tawfik</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mazenmarwan023" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/127551364?v=4" width="150px;" alt="Madonna Mosaad"/>
+        <br />
+        <sub><b>Mazen Marwan</b></sub>
+      </a>
+    </td>     
+    <td align="center">
+      <a href="https://github.com/madonna-mosaad" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/127048836?v=4" width="150px;" alt="Madonna Mosaad"/>
+        <br />
+        <sub><b>Madonna Mosaad</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/nancymahmoud1" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/125357872?v=4" width="150px;" alt="Nancy Mahmoud"/>
+        <br />
+        <sub><b>Nancy Mahmoud</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
