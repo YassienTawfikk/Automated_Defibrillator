@@ -2,7 +2,9 @@
 
 The Automated Defibrillator System is a prototype that bridges **desktop signal analysis** with **embedded hardware control**. ECG signals are processed in real time by a laptop application, which detects abnormal rhythms such as tachycardia or bradycardia. When an arrhythmia is detected, the application sends a command to the Arduino-based circuit to administer a controlled low-voltage shock.
 
-This architecture demonstrates the integration of **biomedical signal processing (software)** with **hardware execution (embedded system)** in a safe, educational environment.
+> This architecture demonstrates the integration of **biomedical signal processing (software)** with **hardware execution (embedded system)** in a safe, educational environment.
+![Overview](https://github.com/user-attachments/assets/73fc50e2-1b82-4d26-bae6-f91fa06e2fbf)
+
 
 ---
 
